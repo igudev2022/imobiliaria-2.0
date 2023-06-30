@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="PT-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/telabusc.css">
-    <title>Document</title>
+    <link rel="shortcut icon" href="imagens/icone.png" type="image/x-icon">
+    <title>Buscar Imóveis</title>
 </head>
 <body>
 <div class="header">
@@ -16,7 +17,7 @@
                 <li><a href="" >Fotos</a></li>
                 <li><a href="" >Videos</a></li>
                 <li><a href="" >Contatos</a></li>
-                <li><a href="" >Buscar</a></li>
+                <li class="busca">Buscar</li>
             </ul>
         </div>
     </div>
@@ -35,8 +36,8 @@
         <label for="tipoimo">Área:</label>
         <input type="text" name="area" placeholder="Área"><br>
 
-        <label for="tipoimo">Outras Caracteristicas:</label>
-        <input type="text" name="outrascaracteristicas" placeholder="Outras caracteristicas"><br>
+        <label for="tipoimo">Valor:</label>
+        <input type="text" name="Valor" placeholder="Valor"><br>
 
         <label for="tipoimo">Cidade:</label>
         <input type="text" name="cidade" placeholder="Cidade"><br>

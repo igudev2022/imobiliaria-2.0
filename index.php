@@ -8,6 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/estil.css">
+    <link rel="shortcut icon" href="imagens/icone.png" type="image/x-icon">
     <title>Simone Imoveis</title>
 </head>
 <body>
@@ -21,6 +22,7 @@
                 <li><a href="" >Videos</a></li>
                 <li><a href="" >Contatos</a></li>
                 <li><a href="buscar.php" >Buscar</a></li>
+                <li><a href="login.php" class="login">Login</a></li>
             </ul>
         </div>
     </div> <!-- FIM DA ROW-HEADER--->
@@ -37,6 +39,9 @@
       
         <a href="buscar.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buscar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br>
      
+        <a href="login.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Login&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br>
+     
+
     </div>
         <div class="col-6 texto">
             <br>
